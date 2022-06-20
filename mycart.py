@@ -27,9 +27,6 @@ def register():
     """User registration"""
     user_name = click.prompt('Please enter a username', type=str)
     password= click.prompt('Please enter a password', type=str,hide_input=True)
-    #flag=click.prompt('do you want to continue',type=str)
-    #if flag=='yes':
-        #cli()
     conn=create_db()
     id=random.randint(1,100000)
     conn.execute("INSERT INTO USERS VALUES (?,?)",(user_name,password))
