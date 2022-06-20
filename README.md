@@ -9,7 +9,7 @@ An ecommerce CLI where admin will be able to add products &amp; user will be abl
 
 
 
-# How to use --in options different commands can be used
+# How to use --in options different commands can be used (Refer documents.txt for that)
 
 `mycart.py [OPTIONS]`
 
