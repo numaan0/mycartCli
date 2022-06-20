@@ -3,17 +3,14 @@ An ecommerce CLI where admin will be able to add products &amp; user will be abl
 
 
 
-# Installation
+# This will install all packages and libraries needed
 
 `pip install --editable .`
 
-Notice the . (dot) at the end
 
-# Usage
+
+# How to use --in options different commands can be used
 
 `mycart.py [OPTIONS]`
 
-OR
-
-`mycart [OPTIONS]`
 
