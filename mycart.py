@@ -10,7 +10,7 @@ from  pyfiglet import Figlet
 @click.group(chain=True)
 def cli():
     f=Figlet(font='slant')
-    print(f.renderText('M y c a r t'))
+    print(f.renderText('W e l c o m e To M y c a r t'))
 
 
 @cli.command()
