@@ -1,4 +1,4 @@
-# E-commerce-CLI-app
+# MyCart --CLI-app
 An ecommerce CLI where admin will be able to add products &amp; user will be able to  register & place order on it.
 
 
